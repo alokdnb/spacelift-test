@@ -1,3 +1,6 @@
+# Orbit Labs Terraform Configuration
+# Managed by Spacelift
+
 terraform {
   required_providers {
     aws = {
