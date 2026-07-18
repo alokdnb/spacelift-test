@@ -25,6 +25,7 @@ resource "aws_s3_bucket" "orbit_storage" {
     mission     = "First Launch"
     environment = "demo"
     creator     = "alok"
+    project     = "Orbit-labs"
   }
 }
 
